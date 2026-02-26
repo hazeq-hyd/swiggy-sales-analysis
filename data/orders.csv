@@ -1,0 +1,544 @@
+2026-02-27 02:47:36.048170,Burger King,Biryani,2,344,Chennai,3
+2026-02-27 02:47:38.063505,Burger King,Sandwich,5,476,Hyderabad,4
+2026-02-27 02:47:40.063704,Dominos,Pizza,4,215,Mumbai,1
+2026-02-27 02:47:42.079310,Dominos,Fries,3,110,Chennai,3
+2026-02-27 02:47:44.079472,Biryani House,Pizza,1,438,Bangalore,2
+2026-02-27 02:47:46.080161,Dominos,Biryani,1,294,Delhi,1
+2026-02-27 02:47:48.094676,Biryani House,Biryani,1,225,Delhi,3
+2026-02-27 02:47:50.094802,Pizza Hut,Fries,5,188,Chennai,2
+2026-02-27 02:47:52.110661,KFC,Biryani,5,217,Mumbai,1
+2026-02-27 02:47:54.110713,KFC,Biryani,2,261,Chennai,3
+2026-02-27 02:47:56.126115,KFC,Pizza,4,438,Chennai,2
+2026-02-27 02:47:58.141361,KFC,Fries,1,344,Bangalore,3
+2026-02-27 02:48:00.142177,Biryani House,Sandwich,3,153,Delhi,1
+2026-02-27 02:48:02.157085,Burger King,Sandwich,5,315,Bangalore,3
+2026-02-27 02:48:04.158864,Dominos,Sandwich,3,346,Chennai,3
+2026-02-27 02:48:06.172953,Burger King,Burger,2,145,Chennai,1
+2026-02-27 02:48:08.173514,KFC,Fries,3,421,Hyderabad,2
+2026-02-27 02:48:10.186603,KFC,Sandwich,2,201,Delhi,5
+2026-02-27 02:48:12.188538,Biryani House,Pizza,3,167,Bangalore,3
+2026-02-27 02:48:14.188815,KFC,Fries,2,352,Chennai,2
+2026-02-27 02:48:16.188817,Burger King,Sandwich,2,373,Bangalore,1
+2026-02-27 02:48:18.203940,Pizza Hut,Biryani,3,283,Chennai,3
+2026-02-27 02:48:20.204202,KFC,Sandwich,3,456,Bangalore,4
+2026-02-27 02:48:22.219762,Dominos,Burger,3,286,Chennai,2
+2026-02-27 02:48:24.234762,Pizza Hut,Sandwich,5,108,Mumbai,2
+2026-02-27 02:48:26.235215,Dominos,Fries,5,131,Chennai,1
+2026-02-27 02:48:28.250634,Pizza Hut,Fries,5,297,Bangalore,3
+2026-02-27 02:48:30.251408,Dominos,Pizza,3,404,Chennai,3
+2026-02-27 02:48:32.266563,Dominos,Biryani,3,222,Delhi,4
+2026-02-27 02:48:34.266740,Pizza Hut,Biryani,4,138,Mumbai,3
+2026-02-27 02:48:36.266894,Burger King,Pizza,5,485,Hyderabad,1
+2026-02-27 02:48:38.267602,Biryani House,Biryani,4,127,Bangalore,3
+2026-02-27 02:48:40.283587,Burger King,Burger,1,183,Chennai,5
+2026-02-27 02:48:42.297930,Biryani House,Burger,2,342,Bangalore,3
+2026-02-27 02:48:44.313546,Biryani House,Biryani,4,165,Hyderabad,2
+2026-02-27 02:48:46.314654,Dominos,Pizza,2,416,Bangalore,2
+2026-02-27 02:48:48.329930,Dominos,Sandwich,2,130,Bangalore,5
+2026-02-27 02:48:50.344713,Dominos,Biryani,1,174,Mumbai,3
+2026-02-27 02:48:52.345084,Burger King,Burger,3,368,Bangalore,5
+2026-02-27 02:48:54.345240,Biryani House,Biryani,3,124,Hyderabad,1
+2026-02-27 02:48:56.345591,Burger King,Biryani,3,430,Hyderabad,1
+2026-02-27 02:48:58.360329,Pizza Hut,Pizza,2,481,Bangalore,1
+2026-02-27 02:49:00.376190,Biryani House,Biryani,5,380,Mumbai,5
+2026-02-27 02:49:02.377176,Burger King,Biryani,1,415,Bangalore,2
+2026-02-27 02:49:04.391210,Pizza Hut,Burger,3,217,Bangalore,2
+2026-02-27 02:49:06.392633,Burger King,Burger,3,329,Delhi,1
+2026-02-27 02:49:08.407589,Pizza Hut,Fries,5,471,Chennai,4
+2026-02-27 02:49:10.407757,Dominos,Burger,1,124,Hyderabad,2
+2026-02-27 02:49:12.407948,Burger King,Burger,4,490,Mumbai,2
+2026-02-27 02:49:14.422876,Biryani House,Biryani,1,355,Mumbai,1
+2026-02-27 02:49:16.438895,Burger King,Burger,2,481,Chennai,2
+2026-02-27 02:49:18.439848,Burger King,Pizza,1,356,Delhi,1
+2026-02-27 02:49:20.454156,Burger King,Burger,1,356,Chennai,5
+2026-02-27 02:49:22.469527,Biryani House,Burger,2,341,Hyderabad,1
+2026-02-27 02:49:24.469823,Biryani House,Pizza,2,430,Hyderabad,5
+2026-02-27 02:49:26.470715,Biryani House,Burger,3,241,Bangalore,4
+2026-02-27 02:49:28.485531,Biryani House,Pizza,1,404,Mumbai,3
+2026-02-27 02:49:30.486003,KFC,Burger,4,150,Chennai,1
+2026-02-27 02:49:32.501341,Dominos,Fries,2,226,Hyderabad,5
+2026-02-27 02:49:34.516918,Dominos,Pizza,4,292,Mumbai,2
+2026-02-27 02:49:36.518039,Burger King,Pizza,2,193,Chennai,2
+2026-02-27 02:49:38.523391,KFC,Biryani,2,418,Hyderabad,4
+2026-02-27 02:49:40.540600,KFC,Fries,1,418,Delhi,1
+2026-02-27 02:49:42.554404,Dominos,Biryani,3,441,Hyderabad,5
+2026-02-27 02:49:44.555453,Pizza Hut,Sandwich,4,217,Hyderabad,3
+2026-02-27 02:49:46.557283,Biryani House,Sandwich,2,166,Mumbai,4
+2026-02-27 02:49:48.567951,Biryani House,Sandwich,5,351,Bangalore,2
+2026-02-27 02:49:50.573355,Burger King,Pizza,5,292,Hyderabad,5
+2026-02-27 02:49:52.584136,Dominos,Pizza,2,134,Chennai,3
+2026-02-27 02:49:54.595488,Biryani House,Sandwich,2,184,Chennai,3
+2026-02-27 02:49:56.611279,Burger King,Sandwich,1,143,Delhi,1
+2026-02-27 02:49:58.627479,Dominos,Fries,4,366,Mumbai,5
+2026-02-27 02:50:00.642799,Burger King,Burger,2,412,Chennai,3
+2026-02-27 02:50:02.657975,Burger King,Fries,5,310,Mumbai,5
+2026-02-27 02:50:04.673951,Pizza Hut,Sandwich,1,289,Hyderabad,3
+2026-02-27 02:50:06.689662,Burger King,Pizza,3,344,Delhi,2
+2026-02-27 02:50:08.705845,Pizza Hut,Biryani,4,322,Bangalore,3
+2026-02-27 02:50:10.720549,Biryani House,Pizza,1,477,Mumbai,5
+2026-02-27 02:50:12.736051,Burger King,Biryani,3,260,Bangalore,1
+2026-02-27 02:50:14.751603,KFC,Fries,5,185,Hyderabad,3
+2026-02-27 02:50:16.751929,Dominos,Fries,1,369,Bangalore,5
+2026-02-27 02:50:18.767019,Biryani House,Fries,5,449,Mumbai,1
+2026-02-27 02:50:20.771298,Pizza Hut,Biryani,2,334,Chennai,4
+2026-02-27 02:50:22.867308,Dominos,Fries,1,407,Hyderabad,1
+2026-02-27 02:50:24.973312,KFC,Biryani,2,243,Delhi,2
+2026-02-27 02:50:26.987573,KFC,Sandwich,5,315,Delhi,1
+2026-02-27 02:50:29.033070,Dominos,Biryani,1,277,Delhi,1
+2026-02-27 02:50:31.036952,KFC,Burger,2,456,Mumbai,3
+2026-02-27 02:50:33.051982,KFC,Sandwich,4,240,Chennai,3
+2026-02-27 02:50:35.058265,Dominos,Fries,4,317,Hyderabad,1
+2026-02-27 02:50:37.086018,Pizza Hut,Burger,5,483,Hyderabad,1
+2026-02-27 02:50:39.094427,Biryani House,Burger,4,230,Mumbai,2
+2026-02-27 02:50:41.094450,Biryani House,Biryani,3,187,Delhi,4
+2026-02-27 02:50:43.102294,Dominos,Sandwich,4,323,Bangalore,2
+2026-02-27 02:50:45.110930,Pizza Hut,Biryani,2,232,Chennai,2
+2026-02-27 02:50:47.123242,Dominos,Pizza,2,436,Hyderabad,3
+2026-02-27 02:50:49.152864,Biryani House,Fries,1,419,Delhi,2
+2026-02-27 02:50:51.227353,Dominos,Burger,5,475,Hyderabad,2
+2026-02-27 02:50:53.305140,KFC,Fries,2,292,Hyderabad,3
+2026-02-27 02:50:55.368350,KFC,Sandwich,4,284,Hyderabad,4
+2026-02-27 02:50:57.371963,Burger King,Burger,2,269,Chennai,4
+2026-02-27 02:50:59.384867,Biryani House,Pizza,1,111,Mumbai,5
+2026-02-27 02:51:01.390368,Biryani House,Burger,5,322,Delhi,4
+2026-02-27 02:51:03.407565,Burger King,Burger,3,490,Bangalore,1
+2026-02-27 02:51:05.407657,Burger King,Biryani,4,300,Delhi,2
+2026-02-27 02:51:07.408197,Pizza Hut,Burger,3,298,Delhi,3
+2026-02-27 02:51:09.413577,KFC,Biryani,3,241,Chennai,1
+2026-02-27 02:51:11.471752,Burger King,Biryani,1,332,Bangalore,5
+2026-02-27 02:51:13.663284,Pizza Hut,Fries,4,172,Bangalore,4
+2026-02-27 02:51:15.673158,Dominos,Burger,5,242,Delhi,3
+2026-02-27 02:51:17.688428,Pizza Hut,Sandwich,3,104,Mumbai,1
+2026-02-27 02:51:19.688619,Burger King,Sandwich,4,283,Bangalore,2
+2026-02-27 02:51:21.704203,Burger King,Burger,3,373,Chennai,2
+2026-02-27 02:51:23.719498,Biryani House,Pizza,1,326,Bangalore,5
+2026-02-27 02:51:25.722881,Burger King,Fries,2,186,Hyderabad,5
+2026-02-27 02:51:27.751598,KFC,Sandwich,5,125,Chennai,1
+2026-02-27 02:51:29.751831,KFC,Fries,3,434,Chennai,4
+2026-02-27 02:51:31.769633,Dominos,Pizza,1,234,Hyderabad,1
+2026-02-27 02:51:33.784639,Burger King,Biryani,4,183,Delhi,5
+2026-02-27 02:51:35.801141,Burger King,Burger,2,459,Chennai,5
+2026-02-27 02:51:37.805448,Dominos,Burger,4,428,Delhi,2
+2026-02-27 02:51:39.914541,Biryani House,Sandwich,1,461,Chennai,3
+2026-02-27 02:51:41.974865,Dominos,Burger,5,357,Mumbai,5
+2026-02-27 02:51:43.998948,Dominos,Burger,2,470,Mumbai,1
+2026-02-27 02:51:46.047467,Burger King,Fries,3,126,Mumbai,1
+2026-02-27 02:51:48.079501,KFC,Burger,2,283,Mumbai,2
+2026-02-27 02:51:50.094590,KFC,Biryani,5,395,Chennai,5
+2026-02-27 02:51:52.098393,KFC,Fries,3,266,Delhi,2
+2026-02-27 02:51:54.118983,Biryani House,Biryani,5,253,Hyderabad,5
+2026-02-27 02:51:56.217353,KFC,Biryani,5,385,Delhi,2
+2026-02-27 02:51:58.270182,Dominos,Fries,3,225,Mumbai,4
+2026-02-27 02:52:00.297782,Pizza Hut,Burger,2,224,Hyderabad,1
+2026-02-27 02:52:02.298110,Pizza Hut,Pizza,1,436,Chennai,5
+2026-02-27 02:52:04.313013,Dominos,Fries,1,311,Hyderabad,3
+2026-02-27 02:52:06.320267,Pizza Hut,Sandwich,3,163,Mumbai,2
+2026-02-27 02:52:08.389605,Dominos,Biryani,1,248,Hyderabad,3
+2026-02-27 02:52:10.428604,Pizza Hut,Fries,5,365,Delhi,4
+2026-02-27 02:52:12.445463,Dominos,Fries,1,419,Hyderabad,1
+2026-02-27 02:52:14.466355,Burger King,Fries,5,287,Chennai,1
+2026-02-27 02:52:16.595938,Dominos,Fries,1,432,Hyderabad,3
+2026-02-27 02:52:18.643444,Burger King,Biryani,4,215,Bangalore,3
+2026-02-27 02:52:20.657273,Burger King,Biryani,2,210,Delhi,5
+2026-02-27 02:52:22.711003,Burger King,Sandwich,3,223,Chennai,2
+2026-02-27 02:52:24.768884,Dominos,Fries,5,128,Bangalore,3
+2026-02-27 02:52:26.797979,Burger King,Fries,5,376,Bangalore,3
+2026-02-27 02:52:28.812117,Biryani House,Biryani,4,324,Chennai,2
+2026-02-27 02:52:30.813109,Burger King,Biryani,2,172,Bangalore,3
+2026-02-27 02:52:32.819893,Biryani House,Burger,3,279,Bangalore,1
+2026-02-27 02:52:34.824408,Burger King,Burger,3,313,Chennai,5
+2026-02-27 02:52:36.829939,Pizza Hut,Biryani,5,480,Delhi,4
+2026-02-27 02:52:38.832344,KFC,Sandwich,3,478,Bangalore,2
+2026-02-27 02:52:40.847954,Burger King,Burger,2,321,Mumbai,5
+2026-02-27 02:52:42.907314,Pizza Hut,Biryani,3,478,Hyderabad,5
+2026-02-27 02:52:44.910058,Dominos,Pizza,5,225,Hyderabad,1
+2026-02-27 02:52:46.917364,Pizza Hut,Sandwich,5,368,Chennai,1
+2026-02-27 02:52:48.920607,Biryani House,Burger,2,415,Bangalore,2
+2026-02-27 02:52:50.939650,KFC,Biryani,1,304,Chennai,4
+2026-02-27 02:52:52.966689,Burger King,Burger,4,425,Delhi,1
+2026-02-27 02:52:54.970429,Dominos,Burger,3,426,Chennai,4
+2026-02-27 02:52:56.985601,Dominos,Biryani,5,387,Delhi,2
+2026-02-27 02:52:58.994896,Pizza Hut,Fries,2,238,Hyderabad,1
+2026-02-27 02:53:00.998289,Burger King,Sandwich,4,139,Delhi,1
+2026-02-27 02:53:02.999767,Burger King,Fries,2,114,Chennai,2
+2026-02-27 02:53:05.016205,Pizza Hut,Sandwich,5,192,Mumbai,3
+2026-02-27 02:53:07.026153,Burger King,Fries,1,160,Hyderabad,2
+2026-02-27 02:53:09.048321,Biryani House,Biryani,3,221,Hyderabad,1
+2026-02-27 02:53:11.049872,Biryani House,Fries,2,254,Hyderabad,5
+2026-02-27 02:53:13.061678,KFC,Pizza,3,191,Delhi,1
+2026-02-27 02:53:15.068819,Burger King,Biryani,5,148,Bangalore,1
+2026-02-27 02:53:17.070191,KFC,Burger,1,398,Chennai,5
+2026-02-27 02:53:19.076610,KFC,Sandwich,3,110,Chennai,3
+2026-02-27 02:53:21.078978,Dominos,Pizza,1,146,Bangalore,4
+2026-02-27 02:53:23.095259,Dominos,Sandwich,2,256,Chennai,2
+2026-02-27 02:53:25.101524,Biryani House,Biryani,3,240,Bangalore,3
+2026-02-27 02:53:27.111212,Biryani House,Pizza,3,276,Delhi,2
+2026-02-27 02:53:29.115509,Pizza Hut,Sandwich,1,216,Bangalore,5
+2026-02-27 02:53:31.115765,Biryani House,Fries,1,192,Hyderabad,2
+2026-02-27 02:53:33.126026,Burger King,Sandwich,5,492,Hyderabad,4
+2026-02-27 02:53:35.126484,Pizza Hut,Sandwich,2,102,Hyderabad,4
+2026-02-27 02:53:37.128050,Burger King,Burger,5,490,Delhi,1
+2026-02-27 02:53:39.135630,Dominos,Sandwich,2,142,Bangalore,1
+2026-02-27 02:53:41.145469,Biryani House,Sandwich,4,463,Hyderabad,1
+2026-02-27 02:53:43.158339,Dominos,Sandwich,2,439,Delhi,5
+2026-02-27 02:53:45.168126,KFC,Fries,1,213,Delhi,3
+2026-02-27 02:53:47.176970,Pizza Hut,Sandwich,2,143,Bangalore,4
+2026-02-27 02:53:49.188345,KFC,Fries,4,261,Bangalore,4
+2026-02-27 02:53:51.192329,Pizza Hut,Pizza,2,469,Delhi,4
+2026-02-27 02:53:53.214539,KFC,Pizza,3,116,Delhi,5
+2026-02-27 02:53:55.267663,Pizza Hut,Biryani,3,362,Hyderabad,2
+2026-02-27 02:53:57.283873,Burger King,Fries,3,177,Bangalore,2
+2026-02-27 02:53:59.297529,Burger King,Burger,1,327,Bangalore,2
+2026-02-27 02:54:01.297952,KFC,Biryani,4,454,Hyderabad,2
+2026-02-27 02:54:03.313503,Dominos,Sandwich,3,159,Mumbai,4
+2026-02-27 02:54:05.313543,Biryani House,Fries,3,378,Bangalore,2
+2026-02-27 02:54:07.328203,Pizza Hut,Sandwich,4,344,Mumbai,2
+2026-02-27 02:54:09.344916,KFC,Biryani,3,129,Bangalore,4
+2026-02-27 03:17:59.407605,Pizza Hut,Biryani,5,252,Bangalore,4
+2026-02-27 03:18:01.407608,Burger King,Pizza,2,382,Bangalore,3
+2026-02-27 03:18:03.423402,Biryani House,Burger,3,344,Mumbai,5
+2026-02-27 03:18:05.438965,Biryani House,Fries,3,136,Hyderabad,4
+2026-02-27 03:18:07.441953,Dominos,Fries,5,443,Bangalore,2
+2026-02-27 03:18:09.456389,Dominos,Sandwich,4,460,Chennai,2
+2026-02-27 03:18:11.466548,Burger King,Sandwich,3,409,Delhi,5
+2026-02-27 03:18:13.475247,Pizza Hut,Burger,1,177,Bangalore,2
+2026-02-27 03:18:15.480904,KFC,Biryani,5,474,Chennai,1
+2026-02-27 03:18:17.485625,KFC,Fries,1,353,Bangalore,1
+2026-02-27 03:18:19.494446,Pizza Hut,Burger,4,317,Delhi,3
+2026-02-27 03:18:21.501546,Burger King,Sandwich,2,446,Hyderabad,4
+2026-02-27 03:18:23.517778,Dominos,Biryani,4,447,Mumbai,2
+2026-02-27 03:18:25.532856,Burger King,Pizza,2,328,Delhi,3
+2026-02-27 03:18:27.532930,Burger King,Fries,1,412,Bangalore,1
+2026-02-27 03:18:29.548234,Burger King,Fries,2,348,Mumbai,2
+2026-02-27 03:18:31.548647,Pizza Hut,Biryani,4,452,Chennai,2
+2026-02-27 03:18:33.563996,Pizza Hut,Pizza,4,452,Chennai,5
+2026-02-27 03:18:35.564349,Biryani House,Fries,3,484,Chennai,1
+2026-02-27 03:18:37.580541,Burger King,Pizza,2,497,Chennai,3
+2026-02-27 03:18:39.595411,Pizza Hut,Biryani,4,443,Chennai,5
+2026-02-27 03:18:41.596090,Biryani House,Biryani,1,176,Mumbai,1
+2026-02-27 03:18:43.611908,Dominos,Biryani,2,453,Bangalore,2
+2026-02-27 03:18:45.626457,Biryani House,Biryani,4,154,Delhi,2
+2026-02-27 03:18:47.626681,Burger King,Burger,4,461,Chennai,2
+2026-02-27 03:18:49.641807,Burger King,Biryani,1,457,Mumbai,5
+2026-02-27 03:18:51.642407,KFC,Burger,4,377,Mumbai,1
+2026-02-27 03:18:53.644562,KFC,Burger,1,160,Bangalore,4
+2026-02-27 03:18:55.657129,KFC,Sandwich,2,421,Bangalore,1
+2026-02-27 03:18:57.658498,KFC,Fries,5,397,Mumbai,3
+2026-02-27 03:18:59.673018,Burger King,Pizza,5,463,Mumbai,4
+2026-02-27 03:19:01.674366,KFC,Pizza,3,429,Hyderabad,5
+2026-02-27 03:19:03.689648,Burger King,Pizza,2,419,Chennai,5
+2026-02-27 03:19:05.703907,Biryani House,Sandwich,4,297,Mumbai,4
+2026-02-27 03:19:06.354819,Biryani House,Sandwich,4,177,Chennai,2
+2026-02-27 03:19:07.705250,Burger King,Biryani,4,362,Chennai,1
+2026-02-27 03:19:08.360585,KFC,Sandwich,1,278,Chennai,4
+2026-02-27 03:19:09.719847,Dominos,Biryani,4,129,Hyderabad,4
+2026-02-27 03:19:10.360914,Pizza Hut,Biryani,1,352,Mumbai,1
+2026-02-27 03:19:11.734565,Dominos,Sandwich,1,205,Chennai,1
+2026-02-27 03:19:12.375650,Dominos,Sandwich,3,429,Delhi,1
+2026-02-27 03:19:13.736618,Biryani House,Pizza,3,169,Delhi,2
+2026-02-27 03:19:14.376179,Biryani House,Burger,4,344,Chennai,3
+2026-02-27 03:19:15.751634,KFC,Biryani,5,420,Delhi,3
+2026-02-27 03:19:16.376324,Biryani House,Biryani,5,388,Delhi,1
+2026-02-27 03:19:17.763367,KFC,Pizza,5,251,Bangalore,3
+2026-02-27 03:19:18.378438,KFC,Biryani,1,373,Mumbai,5
+2026-02-27 03:19:19.776171,Biryani House,Burger,1,316,Mumbai,5
+2026-02-27 03:19:20.380473,Pizza Hut,Pizza,5,444,Bangalore,1
+2026-02-27 03:19:21.790983,Pizza Hut,Fries,1,102,Chennai,4
+2026-02-27 03:19:22.387662,Burger King,Sandwich,2,223,Hyderabad,5
+2026-02-27 03:19:23.798449,KFC,Burger,5,473,Hyderabad,3
+2026-02-27 03:19:24.394989,KFC,Biryani,2,167,Bangalore,5
+2026-02-27 03:19:25.809328,KFC,Biryani,2,497,Delhi,2
+2026-02-27 03:19:26.406892,Burger King,Burger,4,408,Hyderabad,3
+2026-02-27 03:19:27.829341,Biryani House,Sandwich,2,471,Delhi,4
+2026-02-27 03:19:28.407776,KFC,Biryani,4,260,Hyderabad,2
+2026-02-27 03:19:29.830524,Pizza Hut,Fries,3,389,Bangalore,5
+2026-02-27 03:19:30.422598,KFC,Sandwich,5,269,Hyderabad,4
+2026-02-27 03:19:31.844961,Pizza Hut,Pizza,1,436,Mumbai,5
+2026-02-27 03:19:32.423700,Burger King,Burger,1,301,Delhi,4
+2026-02-27 03:19:33.846411,Pizza Hut,Burger,5,153,Hyderabad,1
+2026-02-27 03:19:34.438714,Burger King,Fries,5,361,Hyderabad,3
+2026-02-27 03:19:35.860636,KFC,Biryani,3,137,Chennai,2
+2026-02-27 03:19:36.454096,Burger King,Burger,2,226,Chennai,2
+2026-02-27 03:19:37.876456,Burger King,Fries,1,327,Chennai,3
+2026-02-27 03:19:38.454413,Burger King,Biryani,5,461,Mumbai,1
+2026-02-27 03:19:39.879652,Pizza Hut,Biryani,1,273,Delhi,3
+2026-02-27 03:19:40.456785,Biryani House,Burger,4,102,Hyderabad,3
+2026-02-27 03:19:41.894316,Biryani House,Burger,2,310,Delhi,3
+2026-02-27 03:19:42.473028,Pizza Hut,Biryani,1,371,Mumbai,2
+2026-02-27 03:19:43.905739,KFC,Sandwich,4,465,Delhi,2
+2026-02-27 03:19:44.484516,Pizza Hut,Biryani,2,269,Hyderabad,1
+2026-02-27 03:19:45.921351,Burger King,Fries,4,210,Delhi,2
+2026-02-27 03:19:46.488903,Dominos,Pizza,2,324,Delhi,4
+2026-02-27 03:19:47.923882,Pizza Hut,Biryani,5,416,Mumbai,4
+2026-02-27 03:19:48.503397,Biryani House,Sandwich,5,461,Delhi,1
+2026-02-27 03:19:49.938150,Burger King,Fries,2,202,Delhi,4
+2026-02-27 03:19:50.517132,Biryani House,Biryani,4,228,Bangalore,3
+2026-02-27 03:19:52.057461,Pizza Hut,Burger,1,347,Mumbai,4
+2026-02-27 03:19:52.533833,Pizza Hut,Pizza,2,454,Bangalore,1
+2026-02-27 03:19:54.099113,Biryani House,Fries,1,460,Mumbai,2
+2026-02-27 03:19:54.545281,Burger King,Biryani,3,285,Mumbai,3
+2026-02-27 03:19:56.110936,Biryani House,Biryani,1,196,Chennai,2
+2026-02-27 03:19:56.547985,Biryani House,Sandwich,1,391,Mumbai,3
+2026-02-27 03:19:58.111409,Pizza Hut,Biryani,4,284,Hyderabad,3
+2026-02-27 03:19:58.563492,Burger King,Fries,5,346,Hyderabad,4
+2026-02-27 03:20:00.129368,Biryani House,Fries,2,189,Bangalore,2
+2026-02-27 03:20:00.578854,KFC,Biryani,4,119,Mumbai,1
+2026-02-27 03:20:02.141710,Pizza Hut,Biryani,1,410,Bangalore,1
+2026-02-27 03:20:02.579284,Biryani House,Burger,2,374,Bangalore,5
+2026-02-27 03:20:04.141814,Dominos,Sandwich,1,211,Hyderabad,3
+2026-02-27 03:20:04.594754,Dominos,Biryani,3,348,Chennai,5
+2026-02-27 03:20:06.141858,Burger King,Sandwich,5,497,Bangalore,5
+2026-02-27 03:20:06.595176,Burger King,Burger,1,101,Delhi,1
+2026-02-27 03:20:08.142096,Biryani House,Biryani,4,136,Bangalore,1
+2026-02-27 03:20:08.610670,Biryani House,Fries,3,233,Bangalore,4
+2026-02-27 03:20:10.158327,KFC,Biryani,3,280,Hyderabad,1
+2026-02-27 03:20:10.625692,Burger King,Pizza,4,167,Hyderabad,5
+2026-02-27 03:20:12.173438,Burger King,Burger,5,294,Chennai,5
+2026-02-27 03:20:12.625789,Biryani House,Pizza,4,307,Hyderabad,4
+2026-02-27 03:20:14.188280,Biryani House,Sandwich,2,263,Bangalore,1
+2026-02-27 03:20:14.642409,Pizza Hut,Biryani,1,333,Bangalore,4
+2026-02-27 03:20:16.188309,Burger King,Biryani,5,356,Hyderabad,1
+2026-02-27 03:20:16.667795,Biryani House,Pizza,2,469,Delhi,5
+2026-02-27 03:20:18.231273,Biryani House,Fries,3,335,Mumbai,5
+2026-02-27 03:20:18.686270,Biryani House,Fries,4,264,Hyderabad,1
+2026-02-27 03:20:20.258540,Dominos,Fries,3,393,Delhi,4
+2026-02-27 03:20:20.688432,Burger King,Biryani,4,258,Chennai,3
+2026-02-27 03:20:22.261372,Pizza Hut,Fries,4,324,Delhi,2
+2026-02-27 03:20:22.690617,Burger King,Pizza,5,488,Hyderabad,1
+2026-02-27 03:20:24.269262,KFC,Sandwich,3,278,Hyderabad,5
+2026-02-27 03:20:24.703605,Biryani House,Burger,3,424,Mumbai,5
+2026-02-27 03:20:26.320881,Biryani House,Fries,5,329,Mumbai,1
+2026-02-27 03:20:26.717423,KFC,Burger,1,241,Hyderabad,4
+2026-02-27 03:20:28.391959,Biryani House,Pizza,2,172,Chennai,2
+2026-02-27 03:20:28.719607,Dominos,Burger,3,137,Delhi,4
+2026-02-27 03:20:30.392312,Burger King,Pizza,1,499,Hyderabad,3
+2026-02-27 03:20:30.721042,KFC,Burger,4,114,Delhi,2
+2026-02-27 03:20:32.393100,Dominos,Fries,3,187,Chennai,1
+2026-02-27 03:20:32.721871,Dominos,Biryani,1,396,Mumbai,2
+2026-02-27 03:20:34.408069,Pizza Hut,Biryani,4,225,Bangalore,1
+2026-02-27 03:20:34.735949,Biryani House,Burger,2,129,Chennai,1
+2026-02-27 03:20:36.422840,Dominos,Pizza,1,279,Bangalore,5
+2026-02-27 03:20:36.736149,KFC,Pizza,3,245,Delhi,2
+2026-02-27 03:20:38.438193,Dominos,Burger,5,150,Hyderabad,1
+2026-02-27 03:20:38.750978,Pizza Hut,Burger,5,166,Chennai,3
+2026-02-27 03:20:40.438739,KFC,Pizza,2,375,Mumbai,4
+2026-02-27 03:20:40.768009,Dominos,Fries,5,339,Mumbai,1
+2026-02-27 03:20:42.453652,Dominos,Burger,2,191,Bangalore,1
+2026-02-27 03:20:42.782046,Biryani House,Burger,5,348,Mumbai,5
+2026-02-27 03:20:44.469451,KFC,Burger,5,465,Hyderabad,2
+2026-02-27 03:20:44.797562,Biryani House,Pizza,2,108,Hyderabad,4
+2026-02-27 03:20:46.470220,KFC,Biryani,3,392,Chennai,5
+2026-02-27 03:20:46.798969,KFC,Burger,3,122,Hyderabad,2
+2026-02-27 03:20:48.485639,Dominos,Pizza,1,158,Chennai,4
+2026-02-27 03:20:48.813854,KFC,Biryani,1,189,Chennai,3
+2026-02-27 03:20:50.501065,Pizza Hut,Pizza,5,120,Chennai,5
+2026-02-27 03:20:50.814384,Dominos,Pizza,4,454,Chennai,1
+2026-02-27 03:20:52.501482,KFC,Pizza,3,373,Delhi,5
+2026-02-27 03:20:52.829726,Biryani House,Burger,2,277,Hyderabad,4
+2026-02-27 03:20:54.503577,Pizza Hut,Sandwich,3,471,Bangalore,4
+2026-02-27 03:20:54.833314,KFC,Pizza,3,436,Bangalore,1
+2026-02-27 03:20:56.518420,Burger King,Burger,5,220,Mumbai,3
+2026-02-27 03:20:56.837484,Burger King,Fries,5,326,Chennai,5
+2026-02-27 03:20:58.520124,Biryani House,Sandwich,3,323,Mumbai,2
+2026-02-27 03:20:58.849177,Dominos,Fries,3,461,Hyderabad,1
+2026-02-27 03:21:00.531479,Dominos,Biryani,3,272,Delhi,1
+2026-02-27 03:21:00.851202,Biryani House,Sandwich,2,268,Hyderabad,5
+2026-02-27 03:21:02.534874,Biryani House,Sandwich,3,223,Bangalore,2
+2026-02-27 03:21:02.851486,Burger King,Pizza,1,227,Delhi,2
+2026-02-27 03:21:04.548147,Dominos,Pizza,5,388,Chennai,2
+2026-02-27 03:21:04.861389,Dominos,Fries,2,225,Hyderabad,1
+2026-02-27 03:21:06.552396,KFC,Fries,1,187,Hyderabad,2
+2026-02-27 03:21:06.861729,Burger King,Fries,3,176,Chennai,1
+2026-02-27 03:21:08.563354,Dominos,Fries,4,344,Chennai,5
+2026-02-27 03:21:08.877227,KFC,Burger,1,351,Mumbai,2
+2026-02-27 03:21:10.563609,Biryani House,Sandwich,2,187,Hyderabad,3
+2026-02-27 03:21:10.891709,Biryani House,Biryani,4,213,Bangalore,5
+2026-02-27 03:21:12.563748,Burger King,Biryani,3,116,Hyderabad,3
+2026-02-27 03:21:12.893678,Biryani House,Sandwich,1,441,Chennai,2
+2026-02-27 03:21:14.579949,Burger King,Sandwich,5,309,Chennai,2
+2026-02-27 03:21:14.907681,Biryani House,Burger,2,234,Bangalore,5
+2026-02-27 03:21:16.594443,Pizza Hut,Pizza,5,437,Chennai,2
+2026-02-27 03:21:16.923693,Dominos,Fries,3,163,Mumbai,4
+2026-02-27 03:21:18.594873,Pizza Hut,Fries,2,438,Delhi,1
+2026-02-27 03:21:18.924143,KFC,Fries,1,247,Hyderabad,4
+2026-02-27 03:21:20.595424,Burger King,Biryani,1,273,Bangalore,3
+2026-02-27 03:21:20.938868,Dominos,Pizza,3,241,Delhi,3
+2026-02-27 03:21:22.610808,KFC,Sandwich,3,212,Chennai,3
+2026-02-27 03:21:22.939969,Dominos,Sandwich,1,461,Chennai,2
+2026-02-27 03:21:24.625797,KFC,Fries,5,121,Hyderabad,3
+2026-02-27 03:21:24.954283,KFC,Fries,1,275,Hyderabad,2
+2026-02-27 03:21:26.626226,Biryani House,Pizza,5,124,Mumbai,4
+2026-02-27 03:21:26.969400,Burger King,Biryani,5,492,Bangalore,4
+2026-02-27 03:21:28.628920,KFC,Burger,2,314,Chennai,2
+2026-02-27 03:21:28.971556,KFC,Biryani,3,436,Delhi,5
+2026-02-27 03:21:30.641746,KFC,Fries,3,329,Mumbai,1
+2026-02-27 03:21:31.001308,KFC,Biryani,3,355,Delhi,1
+2026-02-27 03:21:32.657211,KFC,Biryani,3,287,Bangalore,5
+2026-02-27 03:21:33.001417,Burger King,Pizza,2,312,Bangalore,1
+2026-02-27 03:21:34.657550,Dominos,Sandwich,4,153,Delhi,1
+2026-02-27 03:21:35.001465,Biryani House,Burger,2,407,Chennai,2
+2026-02-27 03:21:36.672908,Pizza Hut,Pizza,3,245,Chennai,3
+2026-02-27 03:21:38.674302,Biryani House,Sandwich,5,485,Chennai,1
+2026-02-27 03:21:40.688621,Biryani House,Burger,4,149,Bangalore,2
+2026-02-27 03:21:42.699950,KFC,Biryani,1,475,Hyderabad,5
+2026-02-27 03:21:44.705250,Dominos,Biryani,5,261,Hyderabad,4
+2026-02-27 03:21:46.717356,Burger King,Sandwich,2,399,Mumbai,5
+2026-02-27 03:21:48.774113,Biryani House,Sandwich,5,344,Hyderabad,4
+2026-02-27 03:21:50.783151,KFC,Pizza,5,494,Bangalore,5
+2026-02-27 03:21:52.783772,Pizza Hut,Pizza,5,312,Chennai,2
+2026-02-27 03:21:54.788584,Dominos,Burger,2,168,Mumbai,2
+2026-02-27 03:21:56.798906,Pizza Hut,Biryani,2,319,Delhi,4
+2026-02-27 03:21:58.803056,Burger King,Burger,2,494,Mumbai,3
+2026-02-27 03:22:00.812053,Dominos,Biryani,1,265,Hyderabad,1
+2026-02-27 03:22:02.819604,Biryani House,Sandwich,5,209,Delhi,5
+2026-02-27 03:22:04.829837,Biryani House,Biryani,4,231,Delhi,3
+2026-02-27 03:22:06.829864,Biryani House,Biryani,3,117,Hyderabad,1
+2026-02-27 03:22:08.845394,Pizza Hut,Sandwich,2,303,Mumbai,2
+2026-02-27 03:22:10.845512,Biryani House,Pizza,2,270,Chennai,4
+2026-02-27 03:22:12.861160,KFC,Burger,5,469,Delhi,5
+2026-02-27 03:22:14.872694,Dominos,Fries,5,250,Delhi,2
+2026-02-27 03:22:16.876744,Biryani House,Pizza,3,206,Chennai,2
+2026-02-27 03:22:18.877317,Biryani House,Burger,2,165,Bangalore,1
+2026-02-27 03:22:20.878183,Burger King,Burger,1,134,Mumbai,4
+2026-02-27 03:22:22.892098,KFC,Fries,2,244,Delhi,1
+2026-02-27 03:22:24.892109,KFC,Sandwich,5,210,Chennai,2
+2026-02-27 03:22:26.907835,KFC,Fries,4,314,Mumbai,3
+2026-02-27 03:22:28.926685,Dominos,Biryani,4,484,Delhi,2
+2026-02-27 03:22:30.945059,Dominos,Biryani,5,404,Chennai,2
+2026-02-27 03:22:32.963355,Pizza Hut,Pizza,4,483,Delhi,4
+2026-02-27 03:22:34.978777,Pizza Hut,Pizza,5,131,Delhi,3
+2026-02-27 03:22:36.979733,Burger King,Biryani,3,468,Hyderabad,5
+2026-02-27 03:22:38.985641,KFC,Biryani,3,191,Chennai,1
+2026-02-27 03:22:40.986188,Burger King,Sandwich,5,419,Chennai,2
+2026-02-27 03:22:42.994959,Burger King,Pizza,5,301,Delhi,4
+2026-02-27 03:22:45.017460,KFC,Biryani,4,371,Delhi,4
+2026-02-27 03:22:47.032650,Dominos,Sandwich,1,127,Delhi,1
+2026-02-27 03:22:49.042315,Pizza Hut,Sandwich,3,189,Delhi,3
+2026-02-27 03:22:51.055200,KFC,Biryani,5,417,Mumbai,1
+2026-02-27 03:22:53.064006,Dominos,Biryani,3,247,Bangalore,5
+2026-02-27 03:22:55.081399,Dominos,Biryani,5,326,Hyderabad,5
+2026-02-27 03:22:57.095365,KFC,Sandwich,1,410,Hyderabad,2
+2026-02-27 03:22:59.105799,Pizza Hut,Burger,1,205,Mumbai,5
+2026-02-27 03:23:01.110980,Burger King,Burger,2,194,Delhi,4
+2026-02-27 03:23:03.113276,Biryani House,Fries,4,405,Hyderabad,4
+2026-02-27 03:23:05.120935,Burger King,Fries,3,133,Bangalore,4
+2026-02-27 03:23:07.130591,Biryani House,Burger,1,132,Hyderabad,1
+2026-02-27 03:23:09.147859,KFC,Burger,1,103,Hyderabad,3
+2026-02-27 03:23:11.158770,KFC,Pizza,3,402,Bangalore,4
+2026-02-27 03:23:13.173196,Dominos,Burger,4,444,Bangalore,2
+2026-02-27 03:23:15.188242,Burger King,Burger,4,305,Hyderabad,5
+2026-02-27 03:23:17.189466,Burger King,Sandwich,1,186,Hyderabad,2
+2026-02-27 03:23:19.204915,Pizza Hut,Pizza,4,251,Bangalore,5
+2026-02-27 03:23:21.219947,Biryani House,Sandwich,4,169,Bangalore,5
+2026-02-27 03:23:23.233078,Dominos,Sandwich,1,233,Hyderabad,3
+2026-02-27 03:23:25.246384,Pizza Hut,Biryani,1,417,Mumbai,2
+2026-02-27 03:23:27.248296,KFC,Pizza,4,273,Hyderabad,2
+2026-02-27 03:23:29.251402,Dominos,Biryani,3,206,Chennai,2
+2026-02-27 03:23:31.252565,Biryani House,Biryani,3,135,Bangalore,4
+2026-02-27 03:23:33.268632,Burger King,Biryani,2,440,Bangalore,3
+2026-02-27 03:23:35.279813,Pizza Hut,Burger,5,462,Delhi,1
+2026-02-27 03:23:37.293737,Biryani House,Burger,3,341,Chennai,4
+2026-02-27 03:23:39.298317,KFC,Sandwich,5,260,Hyderabad,1
+2026-02-27 03:23:41.308688,Burger King,Biryani,5,469,Bangalore,2
+2026-02-27 03:23:43.321823,Pizza Hut,Pizza,2,335,Delhi,5
+2026-02-27 03:23:45.329452,Dominos,Fries,3,353,Bangalore,1
+2026-02-27 03:23:47.329960,Biryani House,Pizza,4,315,Delhi,3
+2026-02-27 03:23:49.345291,Dominos,Burger,5,334,Mumbai,1
+2026-02-27 03:23:51.346008,KFC,Pizza,3,213,Hyderabad,1
+2026-02-27 03:23:53.358914,KFC,Biryani,5,181,Delhi,3
+2026-02-27 03:23:55.387250,Biryani House,Pizza,4,205,Mumbai,4
+2026-02-27 03:23:57.392114,Pizza Hut,Pizza,1,191,Chennai,3
+2026-02-27 03:23:59.392748,Biryani House,Burger,3,328,Hyderabad,2
+2026-02-27 03:24:01.407862,KFC,Fries,5,105,Delhi,4
+2026-02-27 03:24:03.511819,Biryani House,Sandwich,2,155,Mumbai,1
+2026-02-27 03:24:05.525492,Pizza Hut,Biryani,3,345,Delhi,2
+2026-02-27 03:24:07.577474,Dominos,Pizza,5,399,Hyderabad,1
+2026-02-27 03:24:09.624883,Biryani House,Pizza,2,256,Delhi,4
+2026-02-27 03:24:11.657271,Dominos,Fries,3,379,Hyderabad,3
+2026-02-27 03:24:13.676099,Burger King,Pizza,2,410,Bangalore,1
+2026-02-27 03:24:15.688866,Burger King,Burger,5,218,Chennai,5
+2026-02-27 03:24:17.689316,Biryani House,Pizza,2,210,Delhi,1
+2026-02-27 03:24:19.697255,Pizza Hut,Sandwich,5,417,Chennai,4
+2026-02-27 03:24:21.784524,Dominos,Fries,1,230,Chennai,5
+2026-02-27 03:24:23.815348,Dominos,Pizza,5,202,Bangalore,4
+2026-02-27 03:24:25.830672,Dominos,Burger,2,162,Bangalore,5
+2026-02-27 03:24:27.846348,Burger King,Biryani,3,261,Bangalore,4
+2026-02-27 03:24:29.853009,KFC,Biryani,5,441,Mumbai,1
+2026-02-27 03:24:31.857612,Dominos,Biryani,3,400,Mumbai,1
+2026-02-27 03:24:33.860342,Biryani House,Biryani,4,168,Chennai,2
+2026-02-27 03:24:35.861440,Dominos,Pizza,3,172,Delhi,5
+2026-02-27 03:24:37.861841,Pizza Hut,Burger,3,273,Hyderabad,2
+2026-02-27 03:24:39.863964,Pizza Hut,Biryani,2,460,Bangalore,4
+2026-02-27 03:24:41.877447,Dominos,Biryani,4,249,Delhi,1
+2026-02-27 03:24:43.892045,Pizza Hut,Pizza,1,311,Mumbai,3
+2026-02-27 03:24:45.907613,KFC,Biryani,5,141,Bangalore,1
+2026-02-27 03:24:47.907676,Dominos,Sandwich,5,236,Hyderabad,3
+2026-02-27 03:24:49.913654,Dominos,Sandwich,3,291,Mumbai,2
+2026-02-27 03:24:51.925938,Pizza Hut,Fries,2,174,Delhi,1
+2026-02-27 03:24:53.938938,Dominos,Burger,5,397,Mumbai,2
+2026-02-27 03:24:55.939077,Biryani House,Fries,2,467,Hyderabad,1
+2026-02-27 03:24:57.939826,Pizza Hut,Sandwich,4,208,Delhi,2
+2026-02-27 03:24:59.940345,Biryani House,Biryani,3,131,Bangalore,5
+2026-02-27 03:25:01.955279,Burger King,Fries,5,166,Bangalore,1
+2026-02-27 03:25:03.955452,KFC,Fries,3,256,Bangalore,5
+2026-02-27 03:25:05.970899,Biryani House,Sandwich,4,279,Hyderabad,2
+2026-02-27 03:25:07.974263,Biryani House,Biryani,3,453,Bangalore,2
+2026-02-27 03:25:09.985340,Biryani House,Burger,3,296,Chennai,4
+2026-02-27 03:25:11.985768,Pizza Hut,Biryani,2,343,Bangalore,4
+2026-02-27 03:25:14.001107,Biryani House,Biryani,2,325,Mumbai,5
+2026-02-27 03:25:16.016372,Dominos,Biryani,5,284,Mumbai,5
+2026-02-27 03:25:18.017204,Burger King,Biryani,3,100,Mumbai,3
+2026-02-27 03:25:20.020814,Burger King,Burger,1,115,Hyderabad,2
+2026-02-27 03:25:22.081398,Pizza Hut,Fries,1,158,Hyderabad,1
+2026-02-27 03:25:24.152195,Dominos,Sandwich,3,392,Delhi,1
+2026-02-27 03:25:26.153800,Burger King,Pizza,4,116,Bangalore,2
+2026-02-27 03:25:28.155358,KFC,Sandwich,2,448,Bangalore,5
+2026-02-27 03:25:30.163609,Dominos,Pizza,5,177,Mumbai,2
+2026-02-27 03:25:32.172824,Biryani House,Biryani,2,464,Hyderabad,1
+2026-02-27 03:25:34.185708,Biryani House,Pizza,3,261,Mumbai,2
+2026-02-27 03:25:36.203305,Pizza Hut,Burger,2,426,Mumbai,3
+2026-02-27 03:25:38.204711,KFC,Burger,2,252,Hyderabad,1
+2026-02-27 03:25:40.217007,Pizza Hut,Pizza,4,476,Mumbai,1
+2026-02-27 03:25:42.235355,Biryani House,Burger,5,457,Bangalore,2
+2026-02-27 03:25:44.236235,Biryani House,Burger,1,220,Hyderabad,2
+2026-02-27 03:25:46.251195,Burger King,Pizza,2,170,Mumbai,5
+2026-02-27 03:25:48.266593,Burger King,Burger,5,156,Hyderabad,4
+2026-02-27 03:25:50.268611,Biryani House,Biryani,3,406,Chennai,1
+2026-02-27 03:25:52.282737,Dominos,Pizza,5,124,Chennai,5
+2026-02-27 03:25:54.284536,Biryani House,Sandwich,3,311,Delhi,1
+2026-02-27 03:25:56.294407,KFC,Sandwich,2,440,Mumbai,5
+2026-02-27 03:25:58.301712,Dominos,Sandwich,5,272,Delhi,5
+2026-02-27 03:26:00.353554,Biryani House,Biryani,5,434,Bangalore,5
+2026-02-27 03:26:02.356087,Burger King,Sandwich,5,491,Mumbai,4
+2026-02-27 03:26:04.368483,Burger King,Fries,3,176,Hyderabad,5
+2026-02-27 03:26:06.382781,Burger King,Fries,2,398,Chennai,1
+2026-02-27 03:26:08.384990,Burger King,Sandwich,2,150,Delhi,2
+2026-02-27 03:26:10.389281,Burger King,Fries,5,330,Hyderabad,4
+2026-02-27 03:26:12.400573,Burger King,Fries,3,394,Delhi,5
+2026-02-27 03:26:14.401637,Biryani House,Burger,1,457,Chennai,5
+2026-02-27 03:26:16.414666,Burger King,Sandwich,1,294,Mumbai,2
+2026-02-27 03:26:18.423259,Dominos,Fries,4,427,Mumbai,5
+2026-02-27 03:26:20.438356,Dominos,Fries,1,214,Bangalore,4
+2026-02-27 03:26:22.439390,KFC,Pizza,2,446,Chennai,5
+2026-02-27 03:26:24.457287,Pizza Hut,Fries,5,271,Hyderabad,1
+2026-02-27 03:26:26.484983,Dominos,Biryani,5,210,Hyderabad,2
+2026-02-27 03:26:28.501088,Biryani House,Biryani,3,227,Hyderabad,1
+2026-02-27 03:26:30.501388,Biryani House,Sandwich,5,326,Chennai,2
+2026-02-27 03:26:32.516333,Burger King,Sandwich,3,442,Bangalore,3
+2026-02-27 03:26:34.517805,Dominos,Fries,4,246,Mumbai,3
+2026-02-27 03:26:36.532390,Biryani House,Fries,2,248,Bangalore,1
+2026-02-27 03:26:38.534969,Dominos,Burger,2,230,Delhi,2
+2026-02-27 03:26:40.547743,Burger King,Fries,5,278,Chennai,2
+2026-02-27 03:26:42.555514,Burger King,Sandwich,4,419,Delhi,3
+2026-02-27 03:26:44.563377,Dominos,Biryani,3,337,Bangalore,2
+2026-02-27 03:26:46.564053,Pizza Hut,Biryani,1,314,Hyderabad,4
+2026-02-27 03:26:48.578844,Pizza Hut,Sandwich,1,475,Chennai,4
+2026-02-27 03:26:50.579605,Biryani House,Fries,4,400,Mumbai,3
+2026-02-27 03:26:52.595786,Dominos,Pizza,4,123,Chennai,4
+2026-02-27 03:26:54.600468,Biryani House,Biryani,4,387,Delhi,2
+2026-02-27 03:26:56.615886,Biryani House,Sandwich,3,106,Mumbai,3
+2026-02-27 03:26:58.620655,Pizza Hut,Fries,3,237,Hyderabad,1
+2026-02-27 03:27:00.630273,KFC,Fries,5,409,Mumbai,4
+2026-02-27 03:27:02.631927,Biryani House,Fries,4,202,Hyderabad,5
+2026-02-27 03:27:04.632598,KFC,Burger,1,177,Chennai,2
+2026-02-27 03:27:06.648515,Dominos,Fries,5,478,Chennai,3
