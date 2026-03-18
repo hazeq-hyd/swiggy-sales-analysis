@@ -56,7 +56,27 @@ while True:
             st.stop()
 
         # ✅ Revenue calculation
-        df["revenue"] = df[quantity_col] * df[price_col]
+        # Clean column names
+df.columns = df.columns.str.strip().str.lower()
+
+# Show columns in UI (IMPORTANT)
+st.write("Columns:", list(df.columns))
+
+# ✅ Fix: handle missing quantity
+if "quantity" not in df.columns:
+    df["quantity"] = 1   # assume 1 order per row
+
+# ✅ Fix: detect price column
+if "price" in df.columns:
+    price_col = "price"
+elif "amount" in df.columns:
+    price_col = "amount"
+else:
+    st.error("❌ No price/amount column found")
+    st.stop()
+
+# ✅ Now safe
+df["revenue"] = df["quantity"] * df[price_col]
 
         with placeholder.container():
 
