@@ -14,7 +14,7 @@ placeholder = st.empty()
 while True:
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
-
+        print("Columns in dataset:", df.columns)
         df["revenue"] = df["quantity"] * df["price"]
 
         with placeholder.container():
