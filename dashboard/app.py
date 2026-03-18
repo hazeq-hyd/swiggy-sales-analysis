@@ -16,6 +16,7 @@ while True:
 
         # ✅ Correct file path usage
         df = pd.read_csv(file_path)
+        print(df.columns)   
 
         # ✅ Clean column names
         df.columns = df.columns.str.strip().str.lower()
