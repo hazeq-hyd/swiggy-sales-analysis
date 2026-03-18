@@ -13,10 +13,15 @@ placeholder = st.empty()
 
 while True:
     if os.path.exists(file_path):
-        df = pd.read_csv(file_path)
-        print("Columns in dataset:", df.columns)
-        df["revenue"] = df["quantity"] * df["price"]
+        df = pd.read_csv("your_file.csv")
 
+# Clean column names (handles ALL issues)
+df.columns = df.columns.str.strip().str.lower()
+
+print(df.columns)  # debug once
+
+# Now this will work safely
+df["revenue"] = df["quantity"] * df["price"]
         with placeholder.container():
             st.metric("Total Revenue", f"₹ {df['revenue'].sum():,.0f}")
 
