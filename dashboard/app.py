@@ -19,29 +19,29 @@ while True:
 # Clean column names
 df.columns = df.columns.str.strip().str.lower()
 
-# 👇 SHOW columns inside Streamlit UI (not terminal)
+# Show columns in UI
 st.write("Columns in dataset:", df.columns)
 
-# ✅ Auto-detect correct column names
+# Auto-detect columns
 quantity_col = None
 price_col = None
 
 for col in df.columns:
-    if "quant" in col:
+    if "quant" in col or "qty" in col:
         quantity_col = col
     if "price" in col or "amount" in col:
         price_col = col
 
-# ❌ If not found → stop with clear message
+# Stop if missing
 if quantity_col is None:
-    st.error(f"❌ Quantity column not found. Available columns: {list(df.columns)}")
+    st.error(f"❌ Quantity column not found. Columns: {list(df.columns)}")
     st.stop()
 
 if price_col is None:
-    st.error(f"❌ Price column not found. Available columns: {list(df.columns)}")
+    st.error(f"❌ Price column not found. Columns: {list(df.columns)}")
     st.stop()
 
-# ✅ Use detected columns
+# Create revenue safely
 df["revenue"] = df[quantity_col] * df[price_col]
 
         with placeholder.container():
