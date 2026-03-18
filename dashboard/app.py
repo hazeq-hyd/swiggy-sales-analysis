@@ -14,27 +14,35 @@ placeholder = st.empty()
 while True:
     if os.path.exists(file_path):
 
-        # ✅ Correct file path usage
         df = pd.read_csv(file_path)
-        print(df.columns)   
 
-        # ✅ Clean column names
-        df.columns = df.columns.str.strip().str.lower()
+# Clean column names
+df.columns = df.columns.str.strip().str.lower()
 
-        # ✅ DEBUG (run once, then you can remove)
-        print("Columns:", df.columns)
+# 👇 SHOW columns inside Streamlit UI (not terminal)
+st.write("Columns in dataset:", df.columns)
 
-        # ✅ Handle missing columns safely
-        if "quantity" not in df.columns:
-            st.error("❌ 'quantity' column not found in dataset")
-            st.stop()
+# ✅ Auto-detect correct column names
+quantity_col = None
+price_col = None
 
-        if "price" not in df.columns:
-            st.error("❌ 'price' column not found in dataset")
-            st.stop()
+for col in df.columns:
+    if "quant" in col:
+        quantity_col = col
+    if "price" in col or "amount" in col:
+        price_col = col
 
-        # ✅ Create revenue column
-        df["revenue"] = df["quantity"] * df["price"]
+# ❌ If not found → stop with clear message
+if quantity_col is None:
+    st.error(f"❌ Quantity column not found. Available columns: {list(df.columns)}")
+    st.stop()
+
+if price_col is None:
+    st.error(f"❌ Price column not found. Available columns: {list(df.columns)}")
+    st.stop()
+
+# ✅ Use detected columns
+df["revenue"] = df[quantity_col] * df[price_col]
 
         with placeholder.container():
             st.metric("Total Revenue", f"₹ {df['revenue'].sum():,.0f}")
